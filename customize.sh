@@ -146,9 +146,9 @@ sleep 2
 # ───────────────────────────────────────────────
 ui_print ""
 ui_print "🔐 Setting executable permissions..."
-chmod 755 "$MODPATH"/service.sh
-chmod 755 "$MODPATH"/post-fs-data.sh
-chmod 755 "$MODPATH"/tools/busybox* 2>/dev/null
+chmod 755 "$MODPATH/service.sh"
+chmod 755 "$MODPATH/post-fs-data.sh"
+chmod 755 "$MODPATH/tools/busybox" 2>/dev/null
 
 # ───────────────────────────────────────────────
 # ✅ Install sukses!
