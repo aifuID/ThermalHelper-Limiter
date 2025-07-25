@@ -1,0 +1,6 @@
+id=thermalhelper
+name=ThermalHelper-Limiter
+version=v1.0-R-universal
+versionCode=100
+author=aifuID
+description=Universal thermal limiter. Auto-run on Magisk, KernelSU, and Apatch.
