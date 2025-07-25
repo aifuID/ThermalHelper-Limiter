@@ -1,5 +1,5 @@
 #!/system/bin/sh
-# ThermalHelper-Limiter v1.0-R — customize.sh
+# ThermalHelper-Limiter v1.0-R2 — customize.sh
 # by aifuID
 
 MODPATH=${0%/*}

@@ -1,6 +1,6 @@
-id=thermalhelper
+id=thermalhelper.limiter
 name=ThermalHelper-Limiter
-version=v1.0-R-universal
-versionCode=100
+version=v1.0-R2
+versionCode=1002
 author=aifuID
-description=Universal thermal limiter. Auto-run on Magisk, KernelSU, and Apatch.
+description=Adaptive CPU throttle module for Snapdragon 865 (LMI) with real-time 41°C ↔ 38°C control loop. Compatible with Magisk v27+, KernelSU, Apatch.
