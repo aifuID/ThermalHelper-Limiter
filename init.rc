@@ -1,5 +1,0 @@
-service thermal_helper /system/bin/sh /data/adb/modules/thermalhelper/service.sh
-    class late_start
-    user root
-    seclabel u:r:init:s0
-    oneshot
