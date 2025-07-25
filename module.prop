@@ -1,0 +1,6 @@
+id=thermalhelper.limiter
+name=ThermalHelper-Limiter
+version=v1.0-R2
+versionCode=1002
+author=aifuID
+description=🔥 Real-time CPU throttle limiter (41°C ↔ 38°C loop) for Snapdragon 865 (LMI). 🛡️ Compatible with Magisk v27+, KernelSU, SukiSU, RKSU, Apatch. Stay cool, stay stable.
